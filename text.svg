@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="500" width="500">
+    <text x="200" y="200" fill="red" transform="rotate(30 20,40)">
+        SERDAR AYALP
+    </text>
+    <text x="10" y="20" style="fill:red">
+        Several lines: <tspan x="10" y="45">First line.</tspan> <tspan x="10" y="70">Second line.</tspan>
+    </text>
+</svg>

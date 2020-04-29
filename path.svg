@@ -1,0 +1,24 @@
+ <svg xmlns="http://www.w3.org/2000/svg" height="210" width="400">
+  <path d="M150 0 L75 200 L225 200 Z" style="fill:red"/>
+</svg> 
+
+<!-- 
+Das Element <path> wird zur Definition eines Pfades verwendet.
+
+Die folgenden Befehle sind für Pfaddaten verfügbar:
+
+M = Gehe zu
+L = Linie
+H = horizontale Linie
+V = vertikale Linie
+C = Krümmung
+S = glatte Krümmung
+Q = quadratische Bézierkurve
+T = glatte quadratische Bézier-Kurve
+A = elliptischer Bogen
+Z = Nahpfad
+
+Alle obigen Befehle können auch mit Kleinbuchstaben ausgedrückt werden. 
+Großbuchstaben bedeuten absolut positioniert, Kleinbuchstaben bedeuten relativ positioniert.
+
+-->
