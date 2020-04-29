@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="300" height="200" viewbox="0 0 300 200">
+ <desc>Flagge Panamas</desc>
+  <rect width="300" height="200" fill="white" />
+  <g fill="#005293">
+     <path d="m60,70 l15-45 l15,45 l-38-28 h47" id="stern" />   
+     <rect y="100" width="150" height="100" id="rechteck" />
+  </g>
+  <g fill="#d21034">
+    <use xlink:href="#stern" x="150" y="100" />
+    <use xlink:href="#rechteck" x="150" y="-100" />
+  </g>
+</svg>

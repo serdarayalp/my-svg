@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewbox="0 0 300 200">
+  <desc>Flagge Dänemarks</desc>
+  <rect x="0" y="0" width="300" height="200" fill="#E31836" />
+  <path d="m80,0 h40 v80 h180 v40 h-180 v80 h-40 v-80 h-80 v-40 h80z" fill="white" />
+</svg>
